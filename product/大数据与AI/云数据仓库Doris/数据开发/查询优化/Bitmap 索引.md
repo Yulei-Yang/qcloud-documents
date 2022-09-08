@@ -32,7 +32,7 @@ SHOW INDEX FROM example_db.table_name;
 ```sql
 DROP INDEX [IF EXISTS] index_name ON [db_name.]table_name;
 ```
-![enter image description here](/tencent/api/attachments/s3/url?attachmentid=780913)
+![](https://qcloudimg.tencent-cloud.cn/raw/948984a429cc8ad1a0acce45701293c8.png)
 
 ## 注意事项
 - 目前索引命令（[show | create | drop] index）仅支持 bitmap 类型的索引。
